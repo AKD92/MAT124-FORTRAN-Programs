@@ -1,4 +1,4 @@
 # MAT124 FORTRAN Programs
-Some Fortran programs from my university course MAT124 : Fortran Programming. All these Fortran programs are compiled and tested in GNU Fortran 95 compiler (Windows Port). Source codes are created and edited in Code::Blocks IDE.
+Some Fortran programs I have written as part of my university course MAT124 : Fortran Programming. I took this course as a COD (Course Outside Department). All of these Fortran sources are compiled and tested in GNU Fortran 95 compiler (Windows Port). Source codes are created, edited and maintained in Code::Blocks IDE.
 ## Lost Codes
-I have lost some other Fortran codes I programmed, I could not find those source files on my PC. But I'll try to upload any source file whenever I create one or I find one. Sorry for the inconvenience.
+It seems like some of my source code files are lost from my PC. Those programs are very simple ones like demonstrating Loops, variables, Format modifiers etc. They are not where they are supposed to be. I'll upload when I find them, or maybe I'll rewrite those programs.
